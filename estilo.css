@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(168, 26, 26);
+}
+
+div{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+h3{
+    color: red;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+div#apresentacao p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div#apresentacao img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#ingredientes ul{
+    line-height: 18pt;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div#preparo ol{
+    line-height: 18pt;
+    font-size: 18px;
+    font-weight: bold;
+}
+
